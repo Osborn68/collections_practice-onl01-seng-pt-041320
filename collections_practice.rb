@@ -21,4 +21,5 @@ end
 
 def kesha_maker(array)
   array.each do |w|
-    
+    w[2] = $!
+  end
