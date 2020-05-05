@@ -24,3 +24,6 @@ def kesha_maker(array)
     w[2] = "$"
   end
 end
+
+def find_a(array)
+  array.
