@@ -23,7 +23,7 @@ def kesha_maker(array)
   array.each do |w|
     w[2] = "$"
   end
-end
+
 
 def find_a(array)
   array.select |word|
